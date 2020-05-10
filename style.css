@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+main {
+  position: relative;
+  top: 6rem;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+h1 {
+  font-size: 5rem;
+  font-family: Impact;
+}
+p {
+  font-size: 1.9rem;
+  margin: 3rem;
+}
+button {
+  padding: 2rem;
+  background-color: blue;
+  width: 16rem;
+  color: white;
+}
+button:hover {
+  background-color: green;
+}
